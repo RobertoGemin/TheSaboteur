@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 12d1a0b00780c7842ac87e44756f633f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - FloorFinshedAudio: {fileID: 8300000, guid: 10b4a5b65ed3a484d8c6ab1a63bff21a, type: 3}
+  - levelProgress: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 7eef6c01c5afa2f41a6698746d2a4966
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - animatieDie: {instanceID: 0}
+  - HelmetanimatieDie: {instanceID: 0}
+  - electricSound: {fileID: 8300000, guid: 2a72cc903aa473a4a819272802f69db6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
